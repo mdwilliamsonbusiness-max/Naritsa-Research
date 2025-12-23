@@ -1,0 +1,25 @@
+# Naritsa - Research portfolio
+
+This repository collects my public work on epistemic safety, body-worn cameras, ontological hygiene, and related topics. Each folder in `/works` links to an open-access version on Zenodo.
+
+## Works
+
+- [Epistemic scanning and scanfield](works/epistemic-scanning/)  
+  Framework for how questions and prompts "scan" people in dark-forest social environments.
+  https://doi.org/10.5281/zenodo.17993169
+
+- [Body-worn cameras and accountability](works/bodycams-accountability/)  
+  Why bodycam footage needs independent custody and cryptographic integrity, not just "transparency" rhetoric.
+  https://doi.org/10.5281/zenodo.17993162
+
+- [Ontological hygiene meta-test](works/ontological-hygiene/)  
+  Treating high-impact concepts like critical infrastructure, with a stress-test for categories.
+  https://doi.org/10.5281/zenodo.17993135
+
+- [Peak-transplants and invasive species](works/peak-transplants/)  
+  Reframing species introductions as moving evolved peaks between landscapes.
+  https://doi.org/10.5281/zenodo.17993139
+
+## Elsewhere
+
+- ORCID: https://orcid.org/0009-0004-6378-9376
